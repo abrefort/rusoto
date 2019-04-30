@@ -14,6 +14,7 @@
 - Add RDS Data service
 - Add ComprehendMedical service
 - Add Ap-East-1 Region
+- Add support for rustls feature in mock
 
 ## [0.38.0] - 2019-04-17
 
